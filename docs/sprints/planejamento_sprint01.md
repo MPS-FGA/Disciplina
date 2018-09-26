@@ -2,9 +2,9 @@
 
 ## Avaleasy
 
-**Data de início**: 18/09/2018
+**Data de início**: 11/09/2018
 
-**Data de término**: 25/09/2018
+**Data de término**: 18/09/2018
 
 | US | Descrição | Pontuação |
 |---|---|---|
@@ -20,9 +20,9 @@
 
 ## Grimório de Mestre
 
-**Data de início**: 18/09/2018
+**Data de início**: 11/09/2018
 
-**Data de término**: 25/09/2018
+**Data de término**: 18/09/2018
 
 | US | Descrição | Pontuação |
 |---|---|---|
