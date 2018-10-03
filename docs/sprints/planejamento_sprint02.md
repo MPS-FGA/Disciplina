@@ -28,4 +28,4 @@
 |---|---|---|
 | [#9](https://github.com/MPS-FGA/Grimorio-do-Mestre/issues/9) Visualizar Classes | Eu, como usuário, desejo visualizar as classes existentes no livro. | 8 |
 | [#10](https://github.com/MPS-FGA/Grimorio-do-Mestre/issues/10) Visualizar Raças| Eu, como usuário, desejo visualizar as raças existentes no livro. | 8 |
-| [#11](https://github.com/MPS-FGA/Grimorio-do-Mestre/issues/11) Ambiente de Teste | Eu, como desenvolvedor, desejo um ambiente configurado para a execução dos testes. | 3 |
+| [#11](https://github.com/MPS-FGA/Grimorio-do-Mestre/issues/11) Ambiente de Teste (Dívida técnica Sprint 1) | Eu, como desenvolvedor, desejo um ambiente configurado para a execução dos testes. | 3 |
