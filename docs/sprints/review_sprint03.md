@@ -2,6 +2,27 @@
 
 ## Avaleasy
 
+| US | Descrição | Pontuação |
+|---|---|---|
+| [06](https://github.com/MPS-FGA/Avaleasy-backend/issues/6)| 2 | Pendente | 
+| [11](https://github.com/MPS-FGA/Avaleasy-app/issues/11)| 1 | Pendente | 
+| [12](https://github.com/MPS-FGA/Avaleasy-app/issues/12)| 2 | Pendente | 
+| [13](https://github.com/MPS-FGA/Avaleasy-app/issues/13)| 1 | Pendente | 
+| [23](https://github.com/MPS-FGA/Avaleasy-app/issues/23)| 5 | Completa | 
+| [08](https://github.com/MPS-FGA/Avaleasy-backend/issues/8)| 1 | Completa |
+
+| US | Problemas |
+|---|---| 
+| #6, #11, #12, #13 | - Problema de gerenciamento de tempo em relação as outras responsabilidades da UnB <br> - Tempo para pareamento  <br> - Semana universitária <br> - Problemas com ambiente de desenvolvimento |
+
+### **Retrospectiva**
+| Bom | Ruim | Melhorar|
+|---|---|---|
+|- Evolução no conhecimento da equipe |- Tempo pra pareamento <br> - Execução das dailys <br> - Semana universitária <br> - Semana universitária <br> - Tempo |- Planejamento das dailys|
+
+### **Análise do Scrum Master**
+Equipe demonstrou evolução no conhecimento principalmente em node express, que no nosso sistema é utilizado para implementar a API. Mas o desenvolvimento das interfaces em React Native continua sendo uma barreira, ninguém da equipe tem experiência com a tecnologia  e a curva de aprendizado do framework é dolorosa. Apesar de tudo evoluímos os testes da API, mas o app continua sem testes automatizados.
+
 --------------
 
 ## Grimório de Mestre

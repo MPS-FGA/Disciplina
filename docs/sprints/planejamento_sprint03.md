@@ -1,7 +1,19 @@
-# Planejamento Sprint 02
+# Planejamento Sprint 03
 
 ## Avaleasy
 
+**Data de início**: 25/09/2018
+
+**Data de término**: 02/10/2018
+
+| US | Descrição | Pontuação |
+|---|---|---|
+| [06](https://github.com/MPS-FGA/Avaleasy-backend/issues/6) | Eu como professor desejo editar meus dados na aplicação, para atualizar minhas informações.| 2 |
+| [11](https://github.com/MPS-FGA/Avaleasy-app/issues/11) | Eu como professor desejo deletar meus dados da aplicação, para remover minhas informações.| 1 |
+| [12](https://github.com/MPS-FGA/Avaleasy-app/issues/12) | Eu como professor desejo editar meus dados na aplicação, para atualizar minhas informações.| 2 |
+| [13](https://github.com/MPS-FGA/Avaleasy-app/issues/13) | Eu como professor desejo visualizar meus dados na aplicação, para ter controle sobre a minha informações.| 1 |
+| [23](https://github.com/MPS-FGA/Avaleasy-app/issues/23) | Eu como professor, desejo criar um modelo de avaliação para facilitar a criação de avaliações.| 5 |
+| [08](https://github.com/MPS-FGA/Avaleasy-backend/issues/8) | Eu como professor desejo deletar meus dados da aplicação, para remover minhas informações.| 1 |
 
 -----------
 
