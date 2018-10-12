@@ -2,7 +2,7 @@
 
 ## Avaleasy
 
-| US | Descrição | Pontuação |
+| US | Pontuação | Status |
 |---|---|---|
 | [06](https://github.com/MPS-FGA/Avaleasy-backend/issues/6) | 2 | Completa |
 | [12](https://github.com/MPS-FGA/Avaleasy-app/issues/12) | 2  | Pendente |
@@ -31,3 +31,24 @@ Equipe teve um bom desempenho nessa Sprint, houveram débitos, mas histórias co
 --------------
 
 ## Grimório de Mestre
+
+| US | Pontuação | Status |
+|---|---|---|
+| [16](https://github.com/MPS-FGA/Grimorio-do-Mestre/issues/16) | 5 | Pendente | 
+| [21](https://github.com/MPS-FGA/Grimorio-do-Mestre/issues/21) | 8 | Pendente |
+| [22](https://github.com/MPS-FGA/Grimorio-do-Mestre/issues/22) | 2 | Completa |
+| [23](https://github.com/MPS-FGA/Grimorio-do-Mestre/issues/23) | 2 | Pendente |
+
+| US | Problemas |
+|---|---| 
+| #21 | - Dificuldade com testes <br> - Falta de conhecimento com a linguagem. |
+| #23 | - Dificuldade com a parte visual. <br> - Página de detalhes muito complexa. |
+| #16 | - API dificulta os filtros usando seus endpoints. |
+
+### **Retrospectiva**
+| Bom | Ruim | Melhorar|
+|---|---|---|
+| - Uma das histórias foi simples de fazer e por isso foi entregue. <br> - Pareamento foi realizado em algumas duplas. | - Dificuldade em testar no React Native. <br> - Maior parte das histórias não foi entregue. <br> - Nenhum membro sabe estilizar bem as telas. | - Estudar mais como realizar esses testes. <br> - Equipe se comprometer mais com o projeto. |
+
+### **Análise do Scrum Master**
+Devido a mudança na data da apresentação, ficou acordado com a equipe que essa Sprint seria extendida. Mesmo com esse pequeno prazo adicional, apenas uma história pôde ser entregue por completo, ficando o restante como dívidas. Entretanto, é importante ressaltar que a equipe se engajou um pouco mais no projeto, porém, devido as dificuldades com a linguagem, os testes e a API, o esforço não está sendo refletido em commits. Mesmo assim é possível ver uma evolução do time durante o projeto.

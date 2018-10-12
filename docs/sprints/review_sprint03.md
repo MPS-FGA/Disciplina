@@ -2,7 +2,7 @@
 
 ## Avaleasy
 
-| US | Descrição | Pontuação |
+| US | Pontuação | Status |
 |---|---|---|
 | [06](https://github.com/MPS-FGA/Avaleasy-backend/issues/6)| 2 | Pendente | 
 | [11](https://github.com/MPS-FGA/Avaleasy-app/issues/11)| 1 | Pendente | 
