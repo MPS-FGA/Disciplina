@@ -18,3 +18,13 @@
 -----------
 
 ## Grimório de Mestre
+**Data de início**: 12/10/2018
+
+**Data de término**: 16/10/2018
+
+| US | Descrição | Pontuação |
+| --- | --- | --- |
+| [16](https://github.com/MPS-FGA/Grimorio-do-Mestre/issues/16) (Dívida técnica Sprint 4) | Eu, como usuário, desejo ver os detalhes das magias buscadas da API. | 5 |
+| [21](https://github.com/MPS-FGA/Grimorio-do-Mestre/issues/21) (Dívida técnica Sprint 4)| Eu, como desenvolvedor, desejo testar o código que foi feito até o momento para melhorar validar o que foi desenvolvido. | 8 |
+| [22](https://github.com/MPS-FGA/Grimorio-do-Mestre/issues/22) (Dívida técnica Sprint 4)| Eu, como desenvolvedor, desejo criar um componente de loading para mostrar os dados somente após a requisição ter sido completada. | 2 |
+| [23](https://github.com/MPS-FGA/Grimorio-do-Mestre/issues/23) (Dívida técnica Sprint 4)| Eu, como desenvolvedor, desejo atualizar os estilos para ficar de acordo com as expectativas do cliente. | 2 |
