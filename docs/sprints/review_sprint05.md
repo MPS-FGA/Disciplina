@@ -1,5 +1,33 @@
 # Revisão
 
+## Avaleasy
+
+| US | Pontuação | Status |
+|---|---|---|
+| [12](https://github.com/MPS-FGA/Avaleasy-app/issues/12) | 2 | Pendente |
+| [11](https://github.com/MPS-FGA/Avaleasy-app/issues/11) | 1 | Pendente |
+| [29](https://github.com/MPS-FGA/Avaleasy-app/issues/29) | 5 | Pendente |
+| [23](https://github.com/MPS-FGA/Avaleasy-backend/issues/23) |  5 | Pendente |
+|[35](https://github.com/MPS-FGA/Avaleasy-app/issues/35) |  5 | Pendente |
+|[25](https://github.com/MPS-FGA/Avaleasy-backend/issues/25) |  2 | Pendente |
+
+
+| US | Problemas |
+|---|---| 
+| #11, #25, #12| - Emanoel: Falta de tempo pois estava em semana de provas <br> - Lucas: Não estava presente na reunião de Review/Retrospectiva |
+| #29, #23| - André e Álax: Não estavam presentes na reunião de Review/Retrospectiva |
+| #35| - Iago e Matheus: Bug no backend causado por uma review mal feita <br> - Iago e Matheus: Teste sem validação significativa levaram a aceitação de história incompleta no backend que impediu o desenvolvimento do frontend |
+
+### **Retrospectiva**
+| Bom | Ruim | Melhorar|
+|---|---|---|
+| - Primeira Release |- Histórias não entregues <br> - Comprometimento <br> - Qualidade de código <br> - Atualização das Issues <br> - Presença nos rituais <br> - NADA entregue <br> - Revisão de código|- Dedicar mais tempo para desenvolver/estudar <br> - Revisão de código <br> - Qualidade de código <br> - Comprometimento|
+
+### **Análise do Scrum Master**
+Equipe com um sério problema de comprometimento e comunicação, o que causou uma situação crítica nessa Sprint onde nenhum história foi concluída. Membros da equipe não mostraram nenhum comprometimento durante a Sprint, somente três membros, incluindo o Scrum Master, participaram dos rituais de conclusão de Sprint. Além disso uma história foi aceita no backend sem validação suficiente, e durante a Sprint descobriu-se que essa história estava incompleta, gerando uma dependência e impedindo a conclusão da tarefa planejada. O código bastante desorganizado, o que acaba dificultando a revisão.
+
+--------------
+
 ## Grimório de Mestre
 
 | US | Pontuação | Status |
