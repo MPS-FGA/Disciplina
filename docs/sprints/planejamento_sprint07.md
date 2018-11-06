@@ -15,3 +15,13 @@
 | [25](https://github.com/MPS-FGA/Avaleasy-backend/issues/25) | Eu como professor desejo deletar um modelo de avaliação para remover modelos desnecessários| 2 |
 
 ## Grimório de Mestre
+
+**Data de início**: 25/10/2018
+
+**Data de término**: 01/11/2018
+
+| US | Descrição | Pontuação |
+|---|---|---|
+| [32](https://github.com/MPS-FGA/Grimorio-do-Mestre/issues/32) | Eu como usuário desejo ter acesso a todas informações para cada raça e para cada classe, sendo que, nessas visualizações, deve ser priorizada a forma mais rápida, limpa e intuitiva de se apresentar o dado. | 5  |
+| [33](https://github.com/MPS-FGA/Grimorio-do-Mestre/issues/33) | Eu como usuário desejo ter acesso as magias registradas podendo filtrá-las, bem como visualizar as informações completas das mesmas de forma mais rápida, limpa e intuitiva. | 5 |
+| [34](https://github.com/MPS-FGA/Grimorio-do-Mestre/issues/34) | Eu como desenvolvedor desejo ter acesso a todos os dados da apidnd localmente, com finalidade de facilitar a construção da aplicação. | 5 |
